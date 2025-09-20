@@ -62,10 +62,71 @@ Uma história macabra sobre "Estilização de Código" ✅
 Sincronização das configurações do Editor ✅
 Configurar o EditorConfig ✅
 Configurar o Prettier ✅
-🎁 Extra: Configurar o Prettier Ignore
+🎁 Extra: Configurar o Prettier Ignore ✅
 
 Dia 11
-🚗 Pista Rápida: Dia 11
-Resolução de DNS (Desafio Nível 1)
-Você conseguiu encontrar o link secreto!
-Resolução de DNS (Desafio Nível 2)
+🚗 Pista Rápida: Dia 11 ✅
+Resolução de DNS (Desafio Nível 1) ✅
+Você conseguiu encontrar o link secreto! ✅
+Resolução de DNS (Desafio Nível 2) ✅
+
+Dia 12
+🚗 Pista Rápida: Dia 12 ✅
+Registrar um Domínio Próprio ✅
+Configurar o Servidor de DNS ✅
+"Chorinho" sobre Servidor de DNS 💪 ✅
+
+Dia 13
+🚗 Pista Rápida: Dia 13 ✅
+Página "Em Construção" e Encerramento da Milestone 0 ✅
+Não confie em nenhum serviço 🛑 ✅
+
+Dia 14
+🚗 Pista Rápida: Dia 14 ✅
+🎁 Bônus: PoC e MVP ajudam mesmo? ✅
+Inauguração Milestone 1: Fundação ✅
+Uma história macabra sobre "Overengineering" ✅
+Proposta de Arquitetura e Pastas ✅
+
+Dia 15
+🚗 Pista Rápida: Dia 15 ✅
+Testes Automatizados: um caminho sem volta ✅
+Instalar um Test Runner 
+Criar um "Teste de Teste"
+Criar um "Teste de Verdade"
+
+Dia 16
+🚗 Pista Rápida: Dia 16
+A maior briga no universo dos Testes Automatizados
+Encostando a mão no Protocolo HTTP 🔥
+Não é magia! (é Protocolo)
+Versionamento de API e Endpoint "/status"
+
+Dia 17
+🚗 Pista Rápida: Dia 17
+Qual Banco de Dados escolher?
+Por que o Docker dominou o mundo?
+Subir Banco de Dados (Local)
+Se conectando no Banco de Dados (Local)
+
+Dia 18
+🚗 Pista Rápida: Dia 18
+Criar módulo "database.js"
+A importância das Variáveis de Ambiente
+Variáveis de Ambiente no Código
+Variáveis de Ambiente no Docker Compose
+
+Dia 19
+🚗 Pista Rápida: Dia 19
+Foi certo fazer o commit do .env?
+Uma história macabra sobre "Choque Elétrico" e "TDD"
+Configurar o "baseUrl" para "Absolute Imports"
+Configurar scripts dos serviços
+
+Dia 20
+🚗 Pista Rápida: Dia 20
+Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
+Database "Version" (+ Red, Green e Refactor do TDD)
+Database "Max Connections"
+Database "Opened Connections"
+SQL Injection e Queries Parametrizadas
