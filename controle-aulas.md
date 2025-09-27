@@ -91,23 +91,23 @@ Proposta de Arquitetura e Pastas ✅
 Dia 15
 🚗 Pista Rápida: Dia 15 ✅
 Testes Automatizados: um caminho sem volta ✅
-Instalar um Test Runner 
-Criar um "Teste de Teste"
-Criar um "Teste de Verdade"
+Instalar um Test Runner ✅
+Criar um "Teste de Teste" ✅
+Criar um "Teste de Verdade" ✅
 
 Dia 16
-🚗 Pista Rápida: Dia 16
-A maior briga no universo dos Testes Automatizados
-Encostando a mão no Protocolo HTTP 🔥
-Não é magia! (é Protocolo)
-Versionamento de API e Endpoint "/status"
+🚗 Pista Rápida: Dia 16 ✅
+A maior briga no universo dos Testes Automatizados ✅
+Encostando a mão no Protocolo HTTP 🔥 ✅
+Não é magia! (é Protocolo) ✅
+Versionamento de API e Endpoint "/status" 
 
 Dia 17
-🚗 Pista Rápida: Dia 17
-Qual Banco de Dados escolher?
-Por que o Docker dominou o mundo?
-Subir Banco de Dados (Local)
-Se conectando no Banco de Dados (Local)
+🚗 Pista Rápida: Dia 17 
+Qual Banco de Dados escolher? 
+Por que o Docker dominou o mundo? 
+Subir Banco de Dados (Local) 
+Se conectando no Banco de Dados (Local) 
 
 Dia 18
 🚗 Pista Rápida: Dia 18
