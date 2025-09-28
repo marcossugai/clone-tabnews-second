@@ -121,12 +121,157 @@ Dia 19
 Foi certo fazer o commit do .env? ✅
 Uma história macabra sobre "Choque Elétrico" e "TDD" ✅
 Configurar o "baseUrl" para "Absolute Imports" ✅
-Configurar scripts dos serviços
+Configurar scripts dos serviços ✅
 
 Dia 20
-🚗 Pista Rápida: Dia 20
-Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
-Database "Version" (+ Red, Green e Refactor do TDD)
-Database "Max Connections"
+🚗 Pista Rápida: Dia 20 ✅
+Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase ✅
+Database "Version" (+ Red, Green e Refactor do TDD) ✅
+Database "Max Connections" ✅
 Database "Opened Connections"
 SQL Injection e Queries Parametrizadas
+
+Dia 21
+🚗 Pista Rápida: Dia 21
+Investigando logs da Vercel em Produção
+Banco de Produção no ElephantSQL (gratuito)
+Banco de Produção no Neon (gratuito)
+Banco de Produção no DigitalOcean (pago)
+
+Dia 22
+🚗 Pista Rápida: Dia 22
+Por que as Migrations existem?
+Migrations por Linha de Comando
+
+Dia 23
+🚗 Pista Rápida: Dia 23
+Migrations pelo endpoint “/migrations” (Dry Run)
+Por que evitar a direção "down"?
+Migrations pelo endpoint "/migrations" (Live Run - Início)
+
+Dia 24
+🚗 Pista Rápida: Dia 24
+Fazendo o Jest "transpilar" arquivos em ESM
+Limpando o Banco de Dados
+Expandindo testes e refatorando implementação
+
+Dia 25
+🚗 Pista Rápida: Dia 25
+Fazendo Deploy e rodando as Migrations em Produção 🎉
+Grande lição + Puxão de orelha 💪
+
+Dia 26
+🚗 Pista Rápida: Dia 26
+Git Branch (3 níveis de compreensão)
+Fazendo deploy em Homologação (Staging)
+Reproduzindo e corrigindo o Bug em Homologação
+
+Dia 27
+🚗 Pista Rápida: Dia 27
+Como nunca mais perder código com Git? (Desafio Prova de Fogo 🔥)
+Git Merge (Fast Forward)
+
+Dia 28
+🚗 Pista Rápida: Dia 28
+Nascimento e "Morte" do Movimento Ágil
+Continuous Integration, Delivery e Deployment
+Trunk-Based Development, Feature Branch e Git Flow
+
+Dia 29
+🚗 Pista Rápida: Dia 29
+Estabilizar "npm run dev"
+Estabilizar "npm test" (Paralelismo)
+Estabilizar "npm test" (Orquestrador)
+
+Dia 30
+🚗 Pista Rápida: Dia 30
+rafaelcorrea-dev: "maxTimeout"
+FernandoWeber, aprendendofelipe, Ilopesr: "Windows"
+andrecruzmendes, KleitonBarone, MarcosASFigueiredo: "/status"
+
+Dia 31
+🚗 Pista Rápida: Dia 31
+Configurar "Continuous Integration" (com GitHub Actions)
+Lint Code: Style
+Lint Code: Quality
+
+Dia 32
+🚗 Pista Rápida: Dia 32
+É verdade mesmo que commits bem feitos fazem diferença?
+Como definir o escopo de um commit?
+Como definir a mensagem de um commit?
+
+Dia 33
+🚗 Pista Rápida: Dia 33
+Lint dos commits (Local)
+Lint dos commits (CI)
+Git Hooks para criação de commits (+ Desafio)
+
+Dia 34
+🚗 Pista Rápida: Dia 34
+Uma história macabra sobre "Tipo da Licença"
+Semantic Versioning
+Resolvendo conflito de "Peer Dependencies"
+Finalizando atualizações
+
+Dia 35
+🚗 Pista Rápida: Dia 35
+Refatorando Scripts e "Efeito Estilingue Infinito"
+Refatorando Testes Automatizados
+Encerramento da Milestone 1 🎉
+
+Pitstop #2
+📸 Tira uma "selfie" comigo?
+Eu tenho uma dificuldade... me ajuda? 🤝
+
+Dia 36
+🚗 Pista Rápida: Dia 36
+Promessa importante daqui para frente 💪
+Inauguração Milestone 2: Usuários, Autenticação e Autorização
+
+Dia 37
+🚗 Pista Rápida: Dia 37
+Um novo jeito de aprender React
+Criando primeira versão da página "/status"
+Minha versão do componente "DatabaseStatus"
+
+Dia 38
+🚗 Pista Rápida: Dia 38
+O que é DE VERDADE um Erro no JavaScript?
+Padronização na Captura de Erros
+Criando Erros Customizados
+
+Dia 39
+🚗 Pista Rápida: Dia 39
+Deploy dos Erros Customizados
+Padronizar Controllers (Abstração Nível 1)
+Ler códigos como o Neo do Matrix
+Padronizar Controllers (Abstração Nível 2)
+
+Dia 40
+🚗 Pista Rápida: Dia 40
+O que é de fato um Model no MVC?
+Criar model "migrator"
+
+Dia 41
+🚗 Pista Rápida: Dia 41
+Criar migration "users"
+Criar model "user"
+Regras de negócio do model "user"
+
+Dia 42
+🚗 Pista Rápida: Dia 42
+Criar endpoint "/api/v1/users/[username]"
+Refatorações na migration "users"
+
+Dia 43
+🚗 Pista Rápida: Dia 43
+Senhas: Como NÃO fazer!!!
+Senhas: Hash
+Senhas: Salt e Pepper
+
+Dia 44
+🚗 Pista Rápida: Dia 44
+Criando o Hash ao se cadastrar
+Atualizando User e Hash (Modo Guerrilha)
+--- final da primeira versão
