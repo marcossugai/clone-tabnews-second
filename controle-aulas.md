@@ -113,15 +113,15 @@ Dia 18
 🚗 Pista Rápida: Dia 18 ✅
 Criar módulo "database.js" ✅
 A importância das Variáveis de Ambiente ✅
-Variáveis de Ambiente no Código 
-Variáveis de Ambiente no Docker Compose 
+Variáveis de Ambiente no Código ✅
+Variáveis de Ambiente no Docker Compose ✅
 
 Dia 19
-🚗 Pista Rápida: Dia 19
-Foi certo fazer o commit do .env?
-Uma história macabra sobre "Choque Elétrico" e "TDD"
-Configurar o "baseUrl" para "Absolute Imports"
-Configurar scripts dos serviços
+🚗 Pista Rápida: Dia 19 ✅
+Foi certo fazer o commit do .env? 
+Uma história macabra sobre "Choque Elétrico" e "TDD" 
+Configurar o "baseUrl" para "Absolute Imports" 
+Configurar scripts dos serviços 
 
 Dia 20
 🚗 Pista Rápida: Dia 20
