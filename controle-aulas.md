@@ -118,10 +118,10 @@ Variáveis de Ambiente no Docker Compose ✅
 
 Dia 19
 🚗 Pista Rápida: Dia 19 ✅
-Foi certo fazer o commit do .env? 
-Uma história macabra sobre "Choque Elétrico" e "TDD" 
-Configurar o "baseUrl" para "Absolute Imports" 
-Configurar scripts dos serviços 
+Foi certo fazer o commit do .env? ✅
+Uma história macabra sobre "Choque Elétrico" e "TDD" ✅
+Configurar o "baseUrl" para "Absolute Imports"
+Configurar scripts dos serviços
 
 Dia 20
 🚗 Pista Rápida: Dia 20
