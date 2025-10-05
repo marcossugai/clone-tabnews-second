@@ -128,7 +128,7 @@ Dia 20
 Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase ✅
 Database "Version" (+ Red, Green e Refactor do TDD) ✅
 Database "Max Connections" ✅
-Database "Opened Connections"
+Database "Opened Connections" ✅
 SQL Injection e Queries Parametrizadas
 
 Dia 21
